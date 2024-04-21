@@ -1,6 +1,7 @@
+作者：SDUST的一名潜在码农
 免责声明 Disclaimer
 
-本爬虫程序是作为课程设计作业而开发的，并仅供教育目的使用。本程序旨在帮助用户了解和学习如何编写和使用网络爬虫技术。开发者不鼓励、不推荐也不支持任何违反IEEE Xplore或任何第三方使用条款的行为。
+本爬虫程序是课程设计作业，并仅供教育目的使用。本程序旨在帮助用户了解和学习如何编写和使用网络爬虫技术。开发者不鼓励、不推荐也不支持任何违反IEEE Xplore或任何第三方使用条款的行为。
 
 This crawler program is developed as a course design assignment and is for educational purposes only. It is designed to help users understand and learn how to write and use web crawler technology. The developer does not encourage, recommend, or support any violation of IEEE Xplore or any third-party terms of use.
 
@@ -21,6 +22,6 @@ The developer is not liable for any direct or indirect damage or loss that may r
 
 Please note that this crawler program is developed as a one-time course assignment project, and the developer does not provide any form of ongoing updates or maintenance. The functionality and performance of the program are not guaranteed, and users should decide whether to use the program based on their actual situation.
 
-通过使用本爬虫程序，您即表示您已阅读、理解并同意接受本免责声明的所有条款。
+使用本爬虫程序，您即表示您已阅读、理解并同意接受本免责声明的所有条款。
 
 By using this crawler program, you indicate that you have read, understood, and agree to accept all the terms of this disclaimer.
