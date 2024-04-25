@@ -3,7 +3,7 @@
 
 免责声明 Disclaimer
 
-本程序是course design，并仅供教育目的使用。本程序旨在帮助用户了解和学习如何编写和使用网络爬虫技术。开发者不鼓励、不推荐也不支持任何违反IEEE Xplore或任何第三方使用条款的行为。
+本程序是课程设计，并仅供教育目的使用。本程序旨在帮助用户了解和学习如何编写和使用网络爬虫技术。开发者不鼓励、不推荐也不支持任何违反IEEE Xplore或任何第三方使用条款的行为。
 
 This crawler program is developed as a course design assignment and is for educational purposes only. It is designed to help users understand and learn how to write and use web crawler technology. The developer does not encourage, recommend, or support any violation of IEEE Xplore or any third-party terms of use.
 
